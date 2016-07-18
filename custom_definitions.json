@@ -27,7 +27,7 @@
   "queues": [],
   "exchanges": [
     {
-      "name": "test",
+      "name": "xebiconExchange",
       "vhost": "/",
       "type": "fanout",
       "durable": true,
